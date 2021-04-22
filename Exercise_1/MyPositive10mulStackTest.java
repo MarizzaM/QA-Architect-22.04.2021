@@ -60,7 +60,6 @@ public class MyPositive10mulStackTest {
 
         // non atomic
         assertEquals(size, 1);
-        assertEquals(stack.peek(), 10);
     }
 
 }
